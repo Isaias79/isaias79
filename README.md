@@ -1,7 +1,7 @@
 <div align="center">
-	<a href="https://josejefferson.github.io">
-		<img height="100" src="https://raw.githubusercontent.com/josejefferson/josejefferson/master/img/avatar-rounded.webp" alt="My avatar">
-		<h1>Jefferson Dantas</h1>
+	<a href="https://isaias79.github.io">
+		<img height="100" src="https://raw.githubusercontent.com/isaias79/isaias79/master/img/avatar-rounded.webp" alt="My avatar">
+		<h1>Isaias</h1>
 	</a>
 </div>
 &nbsp;
